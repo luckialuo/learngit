@@ -7,3 +7,7 @@ It's good to use git.
 
 hello world
 hello
+
+master
+
+i am hello
