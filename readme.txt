@@ -8,4 +8,12 @@ It's good to use git.
 hello world
 hello
 
+<<<<<<< HEAD
 master
+=======
+master
+
+i am hello
+
+world is born.
+>>>>>>> world
