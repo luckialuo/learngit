@@ -9,6 +9,7 @@ hello world
 hello
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 master
 =======
 master
@@ -17,3 +18,8 @@ i am hello
 
 world is born.
 >>>>>>> world
+=======
+master
+
+i am hello
+>>>>>>> hello
